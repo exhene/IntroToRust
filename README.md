@@ -1,3 +1,3 @@
-# 30DaysOfRust
+# IntroToRust
 
 Rust is a programming language that was first introduced in 2010 by Mozilla Research. It is a systems programming language that aims to provide a safe, concurrent, and efficient alternative to existing programming languages like C and C++. Rust is designed to prevent common programming errors such as memory leaks, null pointer dereferencing, and data races, which are common sources of software vulnerabilities and crashes. It achieves this by using a combination of static analysis and ownership-based memory management techniques. Rust has gained popularity among developers for its performance, safety, and ease of use, and is widely used in projects ranging from web development to system programming and game development.
